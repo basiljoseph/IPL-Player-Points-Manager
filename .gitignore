@@ -1,0 +1,5 @@
+# Exported data
+*.xlsx
+
+# Python Temporary files
+*.py[cod]
